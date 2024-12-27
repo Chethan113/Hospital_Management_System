@@ -1,0 +1,23 @@
+[
+    {
+        "ID": "P001",
+        "Name": "Revanth Reddy",
+        "Age": "55",
+        "Ailment": "heartstroke",
+        "Doctor": "Dr. John Doe"
+    },
+    {
+        "ID": "P002",
+        "Name": "Nirmala",
+        "Age": "66",
+        "Ailment": "heartstroke",
+        "Doctor": "Dr. Tharun"
+    },
+    {
+        "ID": "P003",
+        "Name": "A Chethan",
+        "Age": "76",
+        "Ailment": "Orthopedics",
+        "Doctor": "Dr. Mark Johnson"
+    }
+]

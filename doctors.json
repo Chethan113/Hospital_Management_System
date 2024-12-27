@@ -1,0 +1,26 @@
+[
+    {
+        "ID": "D001",
+        "Name": "Dr. John Doe",
+        "Specialization": "Cardiology",
+        "Status": "Available"
+    },
+    {
+        "ID": "D002",
+        "Name": "Dr. Jane Smith",
+        "Specialization": "Neurology",
+        "Status": "Available"
+    },
+    {
+        "ID": "D003",
+        "Name": "Dr. Mark Johnson",
+        "Specialization": "Orthopedics",
+        "Status": "Assigned"
+    },
+    {
+        "ID": "D004",
+        "Name": "Dr. Tharun",
+        "Specialization": "Cardiology",
+        "Status": "Available"
+    }
+]
