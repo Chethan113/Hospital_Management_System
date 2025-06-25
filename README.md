@@ -1,20 +1,27 @@
-# 🏥 Hospital Management System (Tkinter - Python)
+🏥 Hospital Management System (Python GUI)
 
-A clean, responsive hospital management desktop app built using Python's Tkinter GUI library.
+This is a simple desktop app built using Python and Tkinter to manage hospital patients and doctors.
 
-## Features
-- Add/Edit/Delete Patients and Doctors
-- Assign doctors based on specialization
-- Waiting list handling
-- JSON file data persistence
-- Status bar for updates
-- Export patient data to CSV
-- Responsive design with themes
+✅ Features
+- Add / Edit / Delete Patients and Doctors
+- Auto assign doctors by specialization
+- Waiting list for unassigned patients
+- Export patients to CSV
+- Data saved in JSON files
+- GUI built with Tkinter
 
-## Requirements
-- Python 3.x
-- Tkinter (standard with Python)
+ 🚀 How to Run
+1. Download this project as ZIP or clone it using:
+ git clone https:https://github.com/Chethan113/Hospital_Management_System.git
+2. Make sure Python 3 is installed.
+3. Run the file:
+   
+📁 Files
+- `hospital_app.py` - Main Python app
+- `doctors.json` - Stores doctor data
+- `patients.json` - Stores patient data
+- `requirements.txt` - Required packages
 
-## Run the App
-```bash
-python hospital_app.py
+
+
+
