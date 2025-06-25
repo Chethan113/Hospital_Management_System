@@ -1,0 +1,14 @@
+[
+    {
+        "ID": "D001",
+        "Name": "Dr. Chetan",
+        "Specialization": "Cardiology",
+        "Status": "Available"
+    },
+    {
+        "ID": "D002",
+        "Name": "Dr. Sai Tharun",
+        "Specialization": "Neurology",
+        "Status": "Available"
+    }
+]
